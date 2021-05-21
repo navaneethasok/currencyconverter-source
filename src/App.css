@@ -1,0 +1,6 @@
+.App {
+  background: #047572;
+  border-radius: 15%;
+  box-shadow: inset 9.91px 9.91px 10px #046865,
+    inset -9.91px -9.91px 10px #04827f;
+}
